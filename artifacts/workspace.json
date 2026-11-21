@@ -1,0 +1,17 @@
+{
+  "root": "/home/dev/feedback/uid31126",
+  "B": "/home/dev/feedback/uid31126",
+  "sha": "c66b1b0e8286618b1daf643d5a89f7f3fe6b14f8",
+  "wslDistro": "Ubuntu-26.04",
+  "source": {
+    "owner": "openwall",
+    "repo": "john",
+    "sha": "c66b1b0e8286618b1daf643d5a89f7f3fe6b14f8"
+  },
+  "fork": {
+    "owner": "Rrr119",
+    "repo": "john",
+    "cloneUrl": "https://github.com/Rrr119/john.git"
+  },
+  "at": "2026-11-20T23:48:39.220Z"
+}
